@@ -7,7 +7,13 @@ https://hudj136495-alt.github.io/alex-morgan-portfolio/
 
 ## Preview
 
-![Alex Morgan Portfolio Preview](./preview.png)
+### Homepage
+
+![Homepage Preview](./preview-home.png)
+
+### Portfolio Section
+
+![Work Preview](./preview-work.png)
 
 A fictional portfolio website for Alex Morgan, an independent visual designer based in London. This concept project demonstrates a modern, minimalist landing page and portfolio presentation for a creative professional. Alex Morgan, the biography, and all featured projects are fictional; the project examples are concepts rather than real client work.
 
